@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : Lab1.cpp
+// Name        : 3x3 magic square
 // Author      : Yahia
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : in C++, Ansi-style
 //============================================================================
 
 #include <iostream>

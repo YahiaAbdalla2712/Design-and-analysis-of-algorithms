@@ -1,3 +1,11 @@
+//============================================================================
+// Name        : Flipping coins in minimum number of moves.cpp
+// Author      : Yahia
+// Version     :
+// Copyright   : Your copyright notice
+// Description : C++, Ansi-style
+//============================================================================
+
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : Lab5.cpp
+// Name        : Maximum Path Sum in a Triangle.cpp
 // Author      : Yahia
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : C++, Ansi-style
 //============================================================================
 
 #include <iostream>
